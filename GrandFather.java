@@ -1,6 +1,7 @@
 //inheritance example
-//1. Create a class called circle . It contains: Two instance variables: radius (of the type double) and color (of the type String).One public methods: getArea(),simple Constructor  with default value of 1.0 and "red", and parameterized constructor.
-
+//2. Create a class GrandFather with methods name, property , physicalApperance. describe each properties of Grandfather in the class properly in the main method
+// create Father class extending GrandFather and decribe each properties of father deriving from Grandfather(use Override annotation) in the main method 
+//create Son class extending Father and decribe each properties of a Son deriving from Father(use Override annotation) in the main method 
 
 public class GrandFather {//GrandFather super class
 	public void name() {
