@@ -1,4 +1,5 @@
 //Inheritance example
+//3. Demonstrate the example of Single, hierarchical inheritance using shapes as a base class.
 public class Shape {//super class
 	public void details(String color) {
         System.out.println("Color: " + color);
