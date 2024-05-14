@@ -1,4 +1,7 @@
 //inheritance example
+//1. Create a class called circle . It contains: Two instance variables: radius (of the type double) and color (of the type String).One public methods: getArea(),simple Constructor  with default value of 1.0 and "red", and parameterized constructor.
+
+
 public class GrandFather {//GrandFather super class
 	public void name() {
 		String name="Arjun";
